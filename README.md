@@ -102,7 +102,7 @@ This repo is a collection of my tools & workflows for development and design. Fe
 
 *Hat tip to these helpful repos that expanded and informed many of my workflows & tools*
 
-* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows), by @zenorocha: a comprehensive list of great developer Aflred workflows.
-* [Sublime Text 3 Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development), by @jfilter: A Collection of Plugins for Frontend Web Development
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac), by @jaywcjlove: a collection of awesome Mac applications and tools for developers and designers.
-* [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory), by @bomberstudios: An exhaustive and thorough list of Sketch Plugins.  
+* [Alfred Workflows](https://github.com/zenorocha/alfred-workflows), by [@zenorocha](https://github.com/zenorocha/): a comprehensive list of great developer Aflred workflows.
+* [Sublime Text 3 Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development), by [@jfilter](https://github.com/jfilter/): A Collection of Plugins for Frontend Web Development
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac), by [@jaywcjlove](https://github.com/jaywcjlove/): a collection of awesome Mac applications and tools for developers and designers.
+* [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory), by [@bomberstudios](https://github.com/bomberstudios/): An exhaustive and thorough list of Sketch Plugins.  
