@@ -1,7 +1,8 @@
 # Tools & Workflows
 
 
-This repo is a collection of my tools & workflows for development and design. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let me know](https://github.com/BertHaine/my-productivity-tools/issues). 
+This repo is a collection of my tools & workflows for development and design. Feel free to **Star** and **Fork**. Any comments, suggestions? 
+[Let me know](https://github.com/BertHaine/my-productivity-tools/issues). 
 
 ## Contents
 
@@ -15,7 +16,7 @@ This repo is a collection of my tools & workflows for development and design. Fe
 
 ## Sublime Text
 
-*applications to edit text, I suggest the open-source editors*
+*Packages to maxize your workflow in Sublime Text*
 
 * [Package Control](https://packagecontrol.io/packages/Package%20Control): This package enables you to install other packages. Since build 3124, you can install it within Sublime via <em>Tools</em> ➡ <em>Install Package Control</em>.
 * [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile): A better way to create new files. For instance, it automatically creates a folder when needed.
@@ -39,8 +40,8 @@ This repo is a collection of my tools & workflows for development and design. Fe
 *All of the workflows I use to maximize Alfred*
 
 * [Can I Use v1.7.0](https://github.com/willfarrell/alfred-caniuse-workflow) - Search for browser compatibility support of HTML5, CSS3 and more using caniuse.com ~ by @willfarrell. 
-* [Caffeinate](https://github.com/shawnrice/alfred-2-caffeinate-workflow) - SSolves the problem of your computer constantly falling asleep by using OS X's native command line ~ by @shawnrice.
-* [Colors](http://www.packal.org/workflow/colors) - SConvert HEX/RGB/HSL colors ~ by @TylerEich.
+* [Caffeinate](https://github.com/shawnrice/alfred-2-caffeinate-workflow) - Solves the problem of your computer constantly falling asleep by using OS X's native command line ~ by @shawnrice.
+* [Colors](http://www.packal.org/workflow/colors) - Convert HEX/RGB/HSL colors ~ by @TylerEich.
 * [Github](https://github.com/gharlan/alfred-github-workflow) - Easily open GitHub repositories and more in the browser ~ by @gharlan.
 * [Stack Overflow](https://github.com/xhinking/Alfred) - Search for a question on StackOverflow ~ by @xhinking.
 * [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) - Open files or a folders in Sublime Text 3 ~ by @franzheidl.
@@ -59,7 +60,7 @@ This repo is a collection of my tools & workflows for development and design. Fe
 
 ## Chrome Extensions
 
-*Handy extensions for improved workflow and exceptional developer tools*
+*Extensions for improved workflow and exceptional developer tools*
 
 * [Close download bar](https://chrome.google.com/webstore/detail/bkfclmjddajodogcbpohgfpdkgdecgmg) - Closes the download bar via hotkey.
 * [ColorZilla](https://chrome.google.com/webstore/detail/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
@@ -86,7 +87,7 @@ This repo is a collection of my tools & workflows for development and design. Fe
 
 ## Sketch
 
-*Handy plugins for desiging in Sketch*
+*Important plugins for smart desigin in Sketch*
 
 * [RenameIt](https://github.com/rodi01/renameit), by Rodrigo Soares: A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
 * [Craft](https://www.invisionapp.com/craft) Craft is a suite of plugins to let you design with real data in mind. Manage them via the new Craft Manager for incredibly easy updating.
@@ -99,8 +100,7 @@ This repo is a collection of my tools & workflows for development and design. Fe
 
 ## Acknowledgments
 
-*Hat tip to these helpful repos that expanded and informed many of my workflows & 
-tools*
+*Hat tip to these helpful repos that expanded and informed many of my workflows & tools*
 
 * [Alfred Workflows](https://github.com/zenorocha/alfred-workflows), by @zenorocha: a comprehensive list of great developer Aflred workflows.
 * [Sublime Text 3 Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development), by @jfilter: A Collection of Plugins for Frontend Web Development
