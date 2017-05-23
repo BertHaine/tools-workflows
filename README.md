@@ -87,7 +87,7 @@ This repo is a collection of my tools & workflows for development and design. Fe
 
 ## Sketch
 
-*Important plugins for smart desigin in Sketch*
+*Important plugins for smart design in Sketch*
 
 * [RenameIt](https://github.com/rodi01/renameit), by Rodrigo Soares: A port of the Renamy Photoshop plugin for Sketch: it lets you rename layers like a boss.
 * [Craft](https://www.invisionapp.com/craft) Craft is a suite of plugins to let you design with real data in mind. Manage them via the new Craft Manager for incredibly easy updating.
