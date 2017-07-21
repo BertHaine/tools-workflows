@@ -54,7 +54,7 @@ This repo is a collection of my tools & workflows for development and design. Fe
 * [Trash](github.com/TylerEich/Alfred-Extras) - Throw shit in the trash via Alfred.
 * [Sonos Control](http://www.packal.org/workflow/sonos-controller) - Controll Sonos from Alfred including helpful key commands.
 * [Terminal → Finder](https://github.com/LeEnno/alfred-terminalfinder) - Open current Finder (or Path Finder) window in Terminal (or iTerm) and vice versa ~ by @LeEnno.
-* [Create Jekyll](https://github.com/BertHaine/tools-workflows) - Quickly spin up a new Jekyll project from Alfred utilizing a boilerplate. ~ by @BertHaine.
+* [Create Jekyll](https://github.com/BertHaine/tools-workflows/blob/master/alfred/Create%20Jekyll%20Project.alfredworkflow) - Quickly spin up a new Jekyll project from Alfred utilizing a boilerplate. ~ by @BertHaine.
 
 
 <a name="chrome"/>
